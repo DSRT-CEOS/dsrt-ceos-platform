@@ -1,0 +1,7 @@
+# backend/requirements.txt
+# These are Python packages Railway needs to install
+# before running our app
+
+fastapi==0.109.0
+uvicorn==0.27.0
+python-dotenv==1.0.0

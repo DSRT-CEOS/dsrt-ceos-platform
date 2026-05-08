@@ -1,0 +1,21 @@
+# backend/.gitignore
+
+# Environment files (NEVER commit these)
+.env
+*.env
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+logs/
